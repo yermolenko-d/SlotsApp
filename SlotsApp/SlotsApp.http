@@ -1,0 +1,6 @@
+@SlotsApp_HostAddress = http://localhost:5274
+
+GET {{SlotsApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
